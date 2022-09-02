@@ -1,5 +1,8 @@
+
 body{
+
 background-color: #97ffff
+
 }
 p{
   text-align: center;
@@ -8,4 +11,11 @@ p{
 li{
   text-align: center;
 
+}
+h1{
+  text-align: center;
+
+}
+header{
+  background-color: blue
 }
